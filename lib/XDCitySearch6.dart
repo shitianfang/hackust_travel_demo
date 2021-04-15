@@ -171,7 +171,7 @@ class XDCitySearch6 extends StatelessWidget {
                 borderRadius:
                     BorderRadius.all(Radius.elliptical(9999.0, 9999.0)),
                 image: DecorationImage(
-                  image: const AssetImage(''),
+                  image: const AssetImage('assets/images/a.jpg'),
                   fit: BoxFit.cover,
                 ),
                 border: Border.all(width: 3.0, color: const Color(0xffffffff)),
@@ -189,7 +189,7 @@ class XDCitySearch6 extends StatelessWidget {
                 borderRadius:
                     BorderRadius.all(Radius.elliptical(9999.0, 9999.0)),
                 image: DecorationImage(
-                  image: const AssetImage(''),
+                  image: const AssetImage('assets/images/b.jpg'),
                   fit: BoxFit.cover,
                 ),
                 border: Border.all(width: 3.0, color: const Color(0xffffffff)),
